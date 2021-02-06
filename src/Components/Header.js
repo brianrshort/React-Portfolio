@@ -18,7 +18,7 @@ export function Header() {
         <React.Fragment>
         <div >
         <nav className="navbar navbar-dark bg-dark navbar-expand-lg" >
-        <Link className="navbar-brand" to="/" style={styles.text}>Brian Short || Web Developer</Link>
+        <Link className="navbar-brand" to="/React-Portfolio" style={styles.text}>Brian Short || Web Developer</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
         </button>
