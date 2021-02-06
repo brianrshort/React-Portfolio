@@ -25,7 +25,7 @@ export function Header() {
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
             <li className="nav-item active">
-                <Link className="nav-link" to="/" style={styles.link}>About</Link>
+                <Link className="nav-link" to="/React-Portfolio" style={styles.link}>About</Link>
             </li>
             <li className="nav-item">
                 <Link className="nav-link" to="/projects" style={styles.link}>Projects</Link>
