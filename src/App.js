@@ -29,7 +29,7 @@ function App() {
       <Header />
       <Switch>
         <Route path="/education" exact component={Education }/>
-        <Route path="/" exact component={About} />
+        <Route path="/React-Portfolio" exact component={About} />
         <Route path="/interests" exact component={Interests} />
         <Route path="/projects" exact component={Projects} />
       </Switch>
